@@ -1,12 +1,12 @@
-
 package ru.bramblehorse.students.logic;
+
 import java.text.Collator;
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
 /**
  *
- * first
+ * 
  * @author Andrey Prakhov
  */
 public class Student implements Comparable {
